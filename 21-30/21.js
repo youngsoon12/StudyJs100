@@ -20,3 +20,6 @@ console.log(setValue);
 
 //kh
 // 3, 5
+
+//YS.kim
+//안녕하세요 테스트중입니다.
