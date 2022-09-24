@@ -26,3 +26,7 @@ console.log(widthCircle(3));
 function getCircleWidth(n) {
   return n * n * 3.14;
 }
+//YS.kim
+function ys(n) {
+  return parseFloat(n * n * 3.14);
+}

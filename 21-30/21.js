@@ -22,4 +22,4 @@ console.log(setValue);
 // 3, 5
 
 //YS.kim
-//안녕하세요 테스트중입니다.
+//3,5번

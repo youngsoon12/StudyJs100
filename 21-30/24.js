@@ -26,3 +26,9 @@ upperCase("marry");
 //kh
 // const name = prompt("이름을 입력하세요.");
 // console.log(name.toUpperCase());
+
+//YS.kim
+// const mary = (name) =>{
+//   console.log(name.toUpperCase());
+// }
+// mary("mary");
